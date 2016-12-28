@@ -3,7 +3,7 @@
   background-color: $background-color;
   
   /* JC edits:  add background image.  Reference sidebar.html to see style{{}} that I had to add https://talk.jekyllrb.com/t/background-image-in-sass/1327/2  */
-  background-image:    url({{site.baseurl}}/img/eelgrassCrab.png);
+  /*background-image:    url("{{site.url}}/img/eelgrassCrab.png");*/
   background-size:     cover;
   background-repeat:   no-repeat;
   background-position: center center;
