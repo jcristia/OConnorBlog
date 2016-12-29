@@ -35,7 +35,7 @@
   }
   .author_name {
     display: block;
-    color: #F36170;
+    color: white;
     font-size: 1.75em;
     text-transform: lowercase;
   }
@@ -50,6 +50,7 @@
   .author_bio {
     font-size: 90%;
     display: block;
+	color: white;
   }
   @include media-query($medium-screen) {
     text-align: right;
