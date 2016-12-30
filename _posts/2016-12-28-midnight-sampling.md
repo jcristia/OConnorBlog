@@ -4,6 +4,7 @@ title:  "Midnight Sampling"
 date:   2016-12-28 15:07:20
 categories: [field]
 comments: true
+author: "John Cristiani"
 ---
 We did a bunch of work in Tsawwassen.  It was cold.
 

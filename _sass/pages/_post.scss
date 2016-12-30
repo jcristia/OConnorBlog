@@ -67,10 +67,11 @@ section.post {
 		color: $tertiary;
 	}
 	.post-author {
-		text-transform: uppercase;
-		color: $warning;
+		text-transform: lowercase;
+		color: #525252;
+		font-style: italic;
 	}
-  .post-cat {
+	.post-cat {
 		text-transform: uppercase;
 		color: $warning;
 	}

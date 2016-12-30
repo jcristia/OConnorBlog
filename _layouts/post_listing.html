@@ -18,6 +18,12 @@ layout: default
         {% endunless %}
       {% endfor %}
       {% endif %}
+	  •
+	  <span class="post-author">
+	  {% if post.author %}
+	    {{ post.author }}
+	  {% endif %}
+	  </span>
     </p>
     <h4>
       <a href="{{ site.url }}{{ post.url }}" class="post-title" title="{{ post.title }}">{{ post.title }}</a>

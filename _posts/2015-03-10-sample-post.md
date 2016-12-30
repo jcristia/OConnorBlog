@@ -4,6 +4,7 @@ title: Sample Post
 excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
 categories: [template]
 comments: true
+author: "John Cristiani"
 ---
 
 ## HTML Elements

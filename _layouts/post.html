@@ -31,6 +31,12 @@ layout: default
       </span>
       •
       {% include read_time.html %}
+	  •
+	  <span class="post-author">
+	  {% if page.author %}
+	    {{ page.author }}
+	  {% endif %}
+	  </span>
     </span>
 
   </header>
