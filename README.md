@@ -1,8 +1,8 @@
-### O'Connor lab blog
+## O'Connor lab blog
 
 url: 
 
-## TODO
+### TODO
 
 - [ ] Come up with a title and description
 - [ ] Custom domain
